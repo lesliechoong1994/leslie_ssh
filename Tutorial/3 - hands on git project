@@ -1,0 +1,14 @@
+- create a new merge request
+
+what is merge request?
+- let say default branch (master branch) is our main repo. It should be the most legit repo to all of us.
+- you have one more step call merge request to overwrite the default branch 
+    - change from local branch -> merge request -> requesting someone to review your code -> merge to master branch
+- to ensure every change to the repo is reviewed and compared properly before it is merged. 
+ 
+
+steps to create a new file: 
+create a new file 
+save your file 
+git add. 
+git commit 

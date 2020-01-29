@@ -7,9 +7,12 @@ what is merge request?
 - to ensure every change to the repo is reviewed and compared properly before it is merged. 
  
 
-steps to create a new file: 
-create a new file 
-save your file 
-git add . 
-git commit <message>
-git push
+Steps to create a new file: 
+1) > git checkout -b hello-world-<your_name>
+2) create and save your new files with your repo
+3) git add . 
+4) git commit <commit message>
+5) git push
+6) go back to github
+7) create merge request
+8) send the link to facebook group

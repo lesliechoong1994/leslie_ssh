@@ -11,4 +11,5 @@ steps to create a new file:
 create a new file 
 save your file 
 git add . 
-git commit 
+git commit <message>
+git push

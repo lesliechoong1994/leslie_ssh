@@ -1,0 +1,8 @@
+How to make changes remotely?
+
+1) clone the repo folder to local
+
+mac user
+> cd <your_github_folder>
+> git clone <ssh_method>
+eg: git clone git@github.com:lesliechoong1994/leslie_ssh.git

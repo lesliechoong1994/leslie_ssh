@@ -10,5 +10,5 @@ what is merge request?
 steps to create a new file: 
 create a new file 
 save your file 
-git add. 
+git add . 
 git commit 

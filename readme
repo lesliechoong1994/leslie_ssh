@@ -1,1 +1,21 @@
-welcome to the first tutorial
+Welcome to the first tutorial.
+
+Set up ssh-key for your local machine
+1) 
+For mac user - open your terminal
+For window user - open your cmd
+
+2) follow this to create a your first ssh-key if it is not exist.
+https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account
+https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+
+Why do you need a ssh-keygen? 
+1) for authentication purpose.
+2) directly interact from local machine with repo without requesting for your password/username
+    - after you edit the script from local, you can do git pull, git add ., git commit, git push from local machine
+
+what you can't do with ssh-keygen?
+1) pull merge request 
+2) code review
+P/S: You can only do both of them in github repo.
